@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[swj:home|Door43 (swj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-swj|d43-swj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-swj/archive/master.zip|d43-swj.zip]]
+
+**Recent Changes**
+{{changes>ns = swj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/swj|Ethnologue data]]
+
